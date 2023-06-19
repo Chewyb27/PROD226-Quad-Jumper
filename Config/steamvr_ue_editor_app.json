@@ -2,15 +2,15 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.third-person-bp-game-template-20979098.unrealeditor.exe",
+			"app_key": "application.generated.ue.quad-jumper-23901901.unrealeditor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "I:/Unreal/New Stuff/Ue5Testing/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "X:/Unreal/Quad Jumper Git/PROD226-Quad-Jumper/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
 				{
-					"name": "Third Person BP Game Template-20979098 [UE Editor]"
+					"name": "Quad Jumper-23901901 [UE Editor]"
 				}
 			}
 		}
